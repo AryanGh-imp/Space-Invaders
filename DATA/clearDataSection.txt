@@ -1,0 +1,12 @@
+By selecting this option, you can erase all player data from the system. However, please note the following:
+
+Administrator Password Required:
+To proceed with this action, you must enter the Administrator Password. This ensures that only authorized individuals can perform this operation.
+
+Effects of Clearing Data:
+All saved player profiles and progress will be permanently deleted.
+The leaderboard will be reset, and all player names and scores will be removed.
+This action is irreversible.
+
+Restart Required:
+After the data has been cleared, the application will automatically close. To continue using the program, you will need to relaunch it manually.

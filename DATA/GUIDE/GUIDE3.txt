@@ -1,0 +1,18 @@
+How to Save and Load:
+
+Saving:
+During the game, press Esc to open the pause menu.
+Select Save & Return or Save & Exit.
+Your game progress will be saved in a file with your username under the PlayersData folder.
+Note: If you have a previous saved game under your username, saving again will overwrite the old file with the new progress.
+
+Loading:
+From the main menu, enter your username to load a saved game.
+Your score, level, and time will be restored.
+
+Known Issues:
+Performance Issues: If you experience any lag or frame drops, try lowering your game’s FPS settings or closing other applications to improve performance.
+Save/Load Errors: If you cannot load a saved game, ensure that the file in the PlayersData folder is not corrupted or missing.
+
+Good Luck!
+We hope you enjoy the game! Keep playing to improve your score and challenge yourself to reach higher levels. Can you defeat all the enemies and conquer the galaxy?

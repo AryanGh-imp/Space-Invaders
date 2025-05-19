@@ -1,0 +1,26 @@
+SPACE INVADERS
+Welcome to the SPACE INVADERS Game! In this game, you'll take control of a spaceship and fight off enemies. Your goal is to survive as long as possible while defeating waves of enemies. You can save your progress and continue playing later. Here's a guide to help you get started and understand the gameplay.
+
+Controls:
+Movement:
+Press 'A' to move the spaceship left.
+Press 'D' to move the spaceship right.
+
+Shooting:
+Press Spacebar to shoot missiles. You can only shoot 1 missiles at a time.
+
+Pause:
+Press 'Esc' to pause the game. When the game is paused, you can:
+Resume the game.
+Save & Return to the main menu.
+Save & Exit the game.
+Special Ship:
+
+a special ship will appear in the game. Shoot it for bonus points!
+
+Game Features:
+Levels:
+The game consists of multiple levels. As you progress, the enemies get tougher and faster.
+
+Enemies:
+Enemies move horizontally and drop missiles. You need to dodge their attacks and shoot them to clear the level.

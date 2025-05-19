@@ -1,0 +1,24 @@
+Missiles:
+You can shoot missiles to destroy enemies. Keep an eye on the number of active missiles.
+
+Special Ship:
+A special ship may appear during the game. If you hit it with a missile, you get bonus points.
+
+Score:
+Your score increases as you destroy enemies. Keep track of your score and aim to beat your high score!
+
+Lives:
+You start with 3 lives. If an enemy missile hits your spaceship, you lose a life. If you run out of lives, the game ends.
+
+Game Over:
+The game ends when you run out of lives or when you quit manually.
+
+Saving and Loading the Game:
+Saving Progress:
+You can save your progress at any time during the game by pausing and choosing the "Save & Return" or "Save & Exit" option from the pause menu.
+Your score, current level, time played, and lives are saved to a file in the PlayersData folder. The file is named after your username.
+Important: If you already have a saved game and choose to save again, the new save will overwrite the previous save file for your username.
+
+Loading Saved Game:
+If you want to continue from where you left off, simply load your saved game by selecting your username.
+Your score, level, time, and lives will be restored, and you can continue playing from the same point.
