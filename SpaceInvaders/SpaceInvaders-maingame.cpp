@@ -16,7 +16,7 @@ using namespace chrono;
 // Global Items //////////////////////////////////////////////////////////////////////////////
 
 // Main Menu /////////////////////////////////////////////////////////////////////////////////
-const string ADMINISTRATORPASSWORD = "SPACEINVADERS.clear";
+const string ADMINISTRATORPASSWORD = "SPACEINVADERS-AryanGh-SadraST";
 
 const string pauseMenuOption[] = {
     "NEW GAME",
